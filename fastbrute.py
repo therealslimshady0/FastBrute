@@ -11,6 +11,9 @@ BANNER = """
 ██╔══╝  ██╔══██║╚════██║   ██║   ██╔══██╗██╔══██╗██║   ██║   ██║   ██╔══╝  
 ██║     ██║  ██║███████║   ██║   ██████╔╝██║  ██║╚██████╔╝   ██║   ███████╗
 ╚═╝     ╚═╝  ╚═╝╚══════╝   ╚═╝   ╚═════╝ ╚═╝  ╚═╝ ╚═════╝    ╚═╝   ╚══════╝
+Created by therealslimshady
+https://github.com/therealslimshady0
+https://x.com/dare4lslimshady
 """
 
 async def request_url(session, url, verbose, no_error):
